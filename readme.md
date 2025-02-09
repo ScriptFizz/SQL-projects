@@ -7,11 +7,14 @@ Compilation of SQL/Python projects to practice those skills.
 **Built with:**
 
 > - SQL language
+>
 >		- SQLite
 >
 > - Python
+>
 >		- sqlite3
->		- Jupyter Notebooks
+>
+>		- Jupyter/Kaggle Notebooks
 
 ## Projects
 
