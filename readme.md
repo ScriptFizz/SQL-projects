@@ -38,4 +38,20 @@ Using metadata for 45,000 movies listed in the Full MovieLens Dataset we build a
 
 - *Content-Based Recommender*: suggesting movies most similar to the entry based on tagline and overview.
 
+### NY stock data analysis
+
+---
+
+Analysis of stock data fetched from Yahoo Finance between 2010 and 2016, studying sectors risk-return expectation and comparing trading strategies.
+
+### Online shop sales
+
+---
+
+We use a database simulating a real world e-commerce platform to:
+
+- Perform sales analysis, i.e. top purchased product, monthly gross sales, best/worst product by review.
+
+- Build a basic recommender, suggesting a potential customer products based on purchase behaviour.
+
 
